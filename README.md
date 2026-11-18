@@ -1,26 +1,17 @@
 # 威斯康星 × 莉莉·格蕾丝
 
-《战舰世界》威斯康星的 Lily·Grace 主题涂装 Mod。
+这款《战舰世界》威斯康星涂装的设计原型是《鸣潮》的莉莉·格蕾丝（Lily·Grace）。她衣带上的四瓣花扣化作舰艏的镶金圆章，淡紫飘带沿墨黑色舷侧舒展，托起白百合与她的花体签名。夜色里，舷窗透出暖黄灯光，甲板边缘流过取自梅塔配色的虹光。
 
-以黑白、淡紫、百合与飘带为主，搭配梅塔炫彩光带、发光花体字、暖色灯窗，以及舰艏镶金圆章、花环和香水瓶装饰。
+## 下载
 
-## 下载完整成品
+[下载 v0.48.0 完整涂装包](https://github.com/AfflatusLily/Wisconsin-Lily-Grace/releases/download/v0.48.0/Wisconsin_Lily_Dream_PnF_v0.48.0.zip)（约 161 MB，解压后的游戏资源约 2.25 GB）。包内附有模型预览图。
 
-前往 **[Releases 发布页](https://github.com/AfflatusLily/Wisconsin-Lily-Grace/releases/latest)**，下载 `Wisconsin_Lily_Dream_PnF_v0.48.0.zip`。
+## 安装
 
-完整包约 **161 MB**，游戏资源解压约 **2.25 GB**。无需旧版或补丁。请勿把 GitHub 的 **Source code** 当作 Mod 安装包。
+1. 退出游戏，解压下载的 ZIP。
+2. 打开压缩包内的 `res_mods` 文件夹，将里面的 `PnFMods` 和 `content` 两个文件夹合并到当前游戏版本的 `res_mods` 中。
+3. 启动游戏，在港口选择威斯康星查看涂装。
 
-## 安装与更新
+本涂装使用 PnF 加载。部分护围、平台与指挥仪为共享组件，使用同款部件的舰船也可能显示对应配色。
 
-1. 退出游戏，备份旧版莉莉 Mod。
-2. 将包内 `res_mods/PnFMods/Wisconsin_Lily_Dream` 放入当前客户端实际使用的 `res_mods/PnFMods/`；更新时替换旧的同名莉莉目录。
-3. 将包内 `res_mods/content` 按原相对路径合并至同一 `res_mods`。保留其他 Mod，避免多个旧莉莉版本重复注册。
-4. 若环境需要单独的 PnF 加载支持，沿用此前正常工作的配置。
-
-部分护围、平台和指挥仪等采用共享组件覆盖，其他舰船使用同款组件时也可能受到配色影响。卸载或回退时，同时恢复本包涉及的 `content` 文件；只删除 PnF 目录不能撤销这部分覆盖。
-
-## 版本与反馈
-
-v0.48.0 完整成品包含中央四瓣等长瞳花修正。成品包已通过文件完整性校验；附带预览为实际模型离线渲染，不代表游戏内 HDR 效果。048 尚未独立实机验证，不承诺全部客户端版本兼容。
-
-遇到问题可在本仓库的 Issues 中附上游戏版本、Mod 版本、安装方式与截图。
+如遇显示问题，可在 [Issues](https://github.com/AfflatusLily/Wisconsin-Lily-Grace/issues) 附上游戏版本与截图。
