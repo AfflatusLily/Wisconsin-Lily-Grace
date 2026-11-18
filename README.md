@@ -4,12 +4,12 @@
 
 ## 下载
 
-[下载 v0.48.0 完整涂装包](https://github.com/AfflatusLily/Wisconsin-Lily-Grace/releases/download/v0.48.0/Wisconsin_Lily_Dream_PnF_v0.48.0.zip)（约 161 MB，解压后的游戏资源约 2.25 GB）。包内附有模型预览图。
+[下载 v0.51.0 完整涂装包](https://github.com/AfflatusLily/Wisconsin-Lily-Grace/releases/download/v0.51.0/Wisconsin_Lily_Dream_PnF_v0.51.0_Compact.zip)（约 152 MB，解压后的游戏资源约 1.19 GB）。包内附有模型预览图。
 
 ## 安装
 
 1. 退出游戏，解压下载的 ZIP。
-2. 打开压缩包内的 `res_mods` 文件夹，将里面的 `PnFMods` 和 `content` 两个文件夹合并到当前游戏版本的 `res_mods` 中。
+2. 打开压缩包内的 `res_mods` 文件夹，将里面的 `PnFMods` 和 `content` 两个文件夹合并到当前游戏版本的 `res_mods` 中。安装后应能找到 `res_mods/PnFMods/Wisconsin_Lily_Dream/Main.py`。
 3. 启动游戏，在港口选择威斯康星查看涂装。
 
 本涂装使用 PnF 加载。部分护围、平台与指挥仪为共享组件，使用同款部件的舰船也可能显示对应配色。
